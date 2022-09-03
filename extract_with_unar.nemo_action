@@ -1,0 +1,9 @@
+[Nemo Action]
+Active=true
+Name=Extract With Unar 
+Comment=Extract with Unar in case of Archive Manager cannot identify corresponding encoding
+Icon-Name=archive-extract
+Exec=unar -o %P %F
+Selection=any
+Extensions=zip;
+Quote=double
