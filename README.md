@@ -1,5 +1,5 @@
 # Linux Scripts Repos
-A reposity for bash script written by me. Everyone can use them as they want.
+A reposity for some scripts written by me. Everyone can use them as they want.
 
 ## How to use
 Nemo Action Script: Placing these .nemo_action files in "~/.local/share/nemo/actions".
