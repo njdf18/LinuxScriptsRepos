@@ -7,4 +7,4 @@ Bash Script: Running it with GUI or terminal.
 
 ## List of Scripts
 1. Nemo Action Scripts: Extract With Unar (**Please Install Unar before using it**)
-2. Bash Script: Check SSD health
+2. Bash Script: Check SSD health (with Smartmontools)
